@@ -7,6 +7,7 @@ public abstract class BaseObject
     protected double x;
     protected double y;
 
+    
     //object radius
 
     protected double radius;
