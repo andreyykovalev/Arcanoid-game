@@ -35,7 +35,7 @@ public class Arcanoid
         this.width = width;
         this.height = height;
     }
-
+     
     public ArrayList<Brick> getBricks()
     {
         return bricks;
